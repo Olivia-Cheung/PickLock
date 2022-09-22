@@ -1,2 +1,2 @@
 # PickLock
-An Arduino project where the user has to "hack" into a safe by turning three potentiometers to the right position
+An Arduino project where the user has to "hack" into a safe by turning a potentiometer to the right position
